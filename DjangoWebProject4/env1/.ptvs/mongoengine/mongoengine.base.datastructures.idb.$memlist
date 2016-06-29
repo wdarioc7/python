@@ -1,0 +1,11 @@
+itertools
+SemiStrictDict
+weakref
+BaseDict
+__all__
+_import_class
+EmbeddedDocumentList
+BaseList
+MultipleObjectsReturned
+DoesNotExist
+StrictDict

@@ -1,0 +1,5 @@
+ALLOW_INHERITANCE
+get_document
+_document_registry
+__all__
+NotRegistered
